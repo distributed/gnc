@@ -2,7 +2,7 @@
 // Use of this source code is governed by an MIT-style
 // license that can be found in the LICENSE file.
 
-// Package gnc offers communication routines for gritnote systems.
+// Package gnc offers communication routines for use with gritnote systems.
 package gnc
 
 import (
